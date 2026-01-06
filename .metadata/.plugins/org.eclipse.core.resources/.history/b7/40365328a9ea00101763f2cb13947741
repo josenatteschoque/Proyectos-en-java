@@ -1,0 +1,7 @@
+package proyecto1;
+
+public class Clase1 {
+	public static void main(string[] pa) {
+		system.out.println("hola mundo");
+	}
+}
