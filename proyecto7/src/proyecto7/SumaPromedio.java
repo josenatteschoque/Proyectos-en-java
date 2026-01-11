@@ -26,7 +26,7 @@ public class SumaPromedio {
 		Promedio=Suma/4;
 		
 		//Muestro los resultados
-		System.out.print("La suma es:");
+		System.out.print("La suma total es:");
 		System.out.println(Suma);
 		System.out.print("El promedio es:");
 		System.out.print(Promedio);
